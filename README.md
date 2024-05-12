@@ -1,0 +1,2 @@
+
+# A minimal RSpec skeleton

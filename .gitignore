@@ -1,0 +1,25 @@
+
+# REMOVE this entry and this comment after you've done your initial setup.
+/Gemfile.lock
+
+# Project-specific.
+/coverage/
+
+# Old etc.
+*.old*
+*.orig
+/*.patch
+*.ref*
+
+# Variable data.
+/var/
+
+# Nonpersistent stuff.
+TODO.md
+
+# Shared VS Code settings.
+/.vscode/*
+!/.vscode/*.json
+
+# Custom VS Code settings.
+/*.code-workspace
