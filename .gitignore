@@ -1,9 +1,11 @@
 
-# REMOVE this entry and this comment after you've done your initial setup.
+# REMOVE this comment and the line following it after you've done your initial setup.
 /Gemfile.lock
 
 # Project-specific.
 /coverage/
+/doc/
+/.yardoc/
 
 # Old etc.
 *.old*

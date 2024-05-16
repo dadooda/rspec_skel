@@ -1,0 +1,2 @@
+
+# RSpec subsystems' configuration

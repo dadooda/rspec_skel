@@ -1,0 +1,10 @@
+
+#
+# Default YARD options.
+#
+#   $ bundle exec yard
+#
+
+--default-return void
+
+{lib}/**/*.rb
