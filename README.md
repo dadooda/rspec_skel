@@ -24,11 +24,11 @@
 
 https://github.com/dadooda/rspec_skel/assets/126075/5a2b657a-6b79-41c0-b815-246df6c86a0a
 
-2. gh_assets,800x600,crf18
+2. gh_assets,800x600,crf18:
 
-Trr! Drr!
+https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00-sample-800x400.mp4
 
-Mo!
+3. More?
 
 ## Overview
 
