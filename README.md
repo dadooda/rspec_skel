@@ -5,6 +5,7 @@
 
 <!-- code_chunk_output -->
 
+- [Video test](#video-test)
 - [Overview](#overview)
 - [Setup](#setup)
 - [Usage](#usage)
@@ -19,13 +20,13 @@
 
 ## Video test
 
-Hey!
+1. Cloud,800x600,src:
 
 https://github.com/dadooda/rspec_skel/assets/126075/5a2b657a-6b79-41c0-b815-246df6c86a0a
 
-Ho!
+2. gh_assets,800x600,crf18
 
-*
+Trr! Drr!
 
 Mo!
 
