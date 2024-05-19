@@ -17,6 +17,18 @@
 
 <!-- /code_chunk_output -->
 
+## Video test
+
+Hey!
+
+https://github.com/dadooda/rspec_skel/assets/126075/5a2b657a-6b79-41c0-b815-246df6c86a0a
+
+Ho!
+
+*
+
+Mo!
+
 ## Overview
 
 🆎 *Этот текст можно прочитать на русском языке: [README-ru.md](README-ru.md).*
