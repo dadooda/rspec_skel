@@ -36,7 +36,11 @@ https://github.com/dadooda/rspec_skel/assets/126075/afcaf728-d1d5-4a17-b05e-231b
 
 https://github.com/dadooda/rspec_skel/assets/126075/36f901d6-753f-43a3-b594-0653a488d2ad
 
-5. More?
+5. 1200x1600, larger font:
+
+https://github.com/dadooda/rspec_skel/assets/126075/b89af303-b42b-4d9f-859a-fbd017e2dfc7
+
+6. More?
 
 ## Overview
 
