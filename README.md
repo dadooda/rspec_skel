@@ -24,13 +24,20 @@
 
 https://github.com/dadooda/rspec_skel/assets/126075/5a2b657a-6b79-41c0-b815-246df6c86a0a
 
-1. Repo,800x600,crf18:
+2. Repo,800x600,crf18:
 
 https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00-sample-800x400.mp4
 
+3. bebebe
+
 ![sample1](https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00-sample-800x400.mp4)
 
-3. More?
+4. fefefe
+
+[![sample1](https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00sho.png)](https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00-sample-800x400.mp4)
+
+
+1. More?
 
 ## Overview
 
