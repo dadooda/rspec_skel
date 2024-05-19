@@ -20,24 +20,23 @@
 
 ## Video test
 
-1. Cloud,800x600,src:
+1. 800x400:
 
-https://github.com/dadooda/rspec_skel/assets/126075/5a2b657a-6b79-41c0-b815-246df6c86a0a
+https://github.com/dadooda/rspec_skel/assets/126075/afc20b99-885a-4d9a-90e7-e9b2ce67f0d5
 
-2. Repo,800x600,crf18:
+2. 800x600:
 
-https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00-sample-800x400.mp4
+https://github.com/dadooda/rspec_skel/assets/126075/fd938d0c-4f0f-487b-8761-794013bb7748
 
-3. bebebe
+3. 1024x600:
 
-![sample1](https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00-sample-800x400.mp4)
+https://github.com/dadooda/rspec_skel/assets/126075/afcaf728-d1d5-4a17-b05e-231b8cdb0dc3
 
-4. fefefe
+4. 1200x600:
 
-[![sample1](https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00sho.png)](https://github.com/dadooda/rspec_skel/raw/0519.add-video/readme/00-sample-800x400.mp4)
+https://github.com/dadooda/rspec_skel/assets/126075/36f901d6-753f-43a3-b594-0653a488d2ad
 
-
-1. More?
+5. More?
 
 ## Overview
 
