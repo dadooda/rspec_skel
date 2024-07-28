@@ -14,7 +14,7 @@ class Student
     [first_name, last_name].compact.join(" ")
   end
 
-  # @param [Person] other
+  # @param [Student] other
   def greet(other)
     Kernel.puts "#{full_name} sends his greetings to #{other.full_name}!"
   end
